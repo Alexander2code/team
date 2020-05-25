@@ -2,6 +2,6 @@
 
 #### Development
 - [Code Style](/development/code-style/)
-  * [CSharp Code Style Convetion](/development/code-style/CSharpCodeStyle)
+  * [CSharp Code Style Convetion](/development/code-style/CSharpCodeStyle.md)
 - Code Review
 - Git Convetion
