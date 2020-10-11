@@ -1,4 +1,4 @@
-# CCS Git Practices
+Git Practices
 
 ## Git practices
 
