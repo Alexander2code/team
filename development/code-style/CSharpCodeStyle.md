@@ -53,7 +53,7 @@ Here is the recommended order for type members but you can change this order in 
 * Comments for interfaces. Its methods and properties should describe the contract, not the implementation.
 * If there are more than one constructors you can describe them more detailed, for understanding the difference of initialization by different constructors.
 * You can omit the comment of the method result part if the comment to the method itself gives an understanding about the result.
-* You can omit the comment of the method parameters if all the parameter names are obvious to understand. If at least one parameter is not obvious, then it is necessary to specify parameters for all params.
+* You can omit the comment of the method parameters if all the parameter names are obvious to understand. If at least one parameter is not obvious, then it is necessary to specify comments for all params.
 * You can use [the following extension VS 2017/2019](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments&ssr=false#overview) for collapsing only comments (Ctrl+M, Ctrl+C).
 
 ## Spaces / Tabs / Empty lines
